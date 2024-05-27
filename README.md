@@ -1,1 +1,1 @@
-# idx-nix
+# Nix collection for Project IDX
