@@ -1,0 +1,8 @@
+[mysqld]
+user=user
+
+# Change my-app with your workspace folder name
+datadir=/home/user/my-app/mysql_data
+socket=/home/user/my-app/mysql_data/mysql.sock
+log-error=/home/user/my-app/mysql_data/mysql-error.log
+pid-file=/home/user/my-app/mysql_data/mysql.pid
