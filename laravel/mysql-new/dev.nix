@@ -10,7 +10,7 @@
     pkgs.nodejs_20
   ];
 
-  # See: https://nixos.wiki/wiki/Mysql
+  # See: https://wiki.nixos.org/wiki/Mysql
   services.mysql = {
     enable = true;
     package = pkgs.mysql80;
